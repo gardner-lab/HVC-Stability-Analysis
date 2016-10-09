@@ -1,6 +1,6 @@
 # Welcome
 
-This is a landing page for custom code used in the manuscript [Unstable neurons underlie a stable behavior](http://10.1038/nn.4405) publised in Nature Neuroscience, October 2016.
+This is a landing page for custom code used in the manuscript [Unstable neurons underlie a stable behavior](http://dx.doi.org/10.1038/nn.4405) publised in Nature Neuroscience, October 2016.
 
 ### Time frequency contours
 
