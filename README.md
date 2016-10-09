@@ -12,8 +12,8 @@ Code that was used for generating spectrograms and performing song alignments (f
 
 ### Spike sorting
 
-Spike sorting was performed using algorithms described in [Mesoscopic Patterns of Neural Activity Support Songbird Cortical Sequences](http://dx.doi.org/10.1371/journal.pbio.1002158).  The repository with the latest version of this code can be found at [https://github.com/jmarkow/spikoclust](https://github.com/jmarkow/spikoclust)
+Spike sorting was performed using algorithms described in [Mesoscopic Patterns of Neural Activity Support Songbird Cortical Sequences](http://dx.doi.org/10.1371/journal.pbio.1002158).  The repository with the latest version of this code can be found at [https://github.com/jmarkow/spikoclust](https://github.com/jmarkow/spikoclust).
 
 ### Miniscope-related materials
 
-Acquisition and analysis software related to the custom miniscope can be found here [https://github.com/WALIII/FreedomScope/](https://github.com/WALIII/FreedomScope/)
+Acquisition and analysis software related to the custom miniscope can be found here [https://github.com/WALIII/FreedomScope/](https://github.com/WALIII/FreedomScope/).
